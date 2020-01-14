@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a first year Psychology PhD student at the University of Wisconsin, Madison.
+I'm a first year Psychology PhD student at the University of Wisconsin-Madison.
 My primary interest is in the nature of visual concepts. How are they learned? Why are they useful? Can machines be taught these concepts? I study drawings as a means to answer these questions.
 
 
@@ -72,8 +72,9 @@ I'm affiliated with the {{% staticref "http://concepts.psych.wisc.edu/" "newtab"
 {{% staticref "https://schlosslab.discovery.wisc.edu/" "newtab" %}}Schloss Visual Reasoning Lab{{% /staticref %}}, 
 {{% staticref "https://alab.psych.wisc.edu/" "newtab" %}}Austerweil Lab{{% /staticref %}}, 
 and the {{% staticref "https://wid.wisc.edu/people/kushin-mukherjee/" "newtab" %}}Wisconsin Institute for Discovery{{% /staticref %}}.
-I grew up in Calcutta, India, a bustling city with hot summers and torrential monsoons. Noticing a distinct lack of snow in my climate collection, I moved to upstate New York, where I received my AB in Cognitive Science and Japanese from Vassar College.
+I grew up in {{% staticref "https://en.wikipedia.org/wiki/Kolkata" "newtab" %}}Kolkata, India{{% /staticref %}}, a bustling city with hot summers and torrential monsoons. Noticing a distinct lack of snow in my climate collection, I moved to upstate New York, where I received my BA in Cognitive Science and Japanese from {{% staticref "https://www.vassar.edu/" "newtab" %}}Vassar College{{% /staticref %}}.
 
 
-While at Vassar, I was advised by Ken Livingston and Josh de Leeuw.
-I also spent a summer at the Computation and Cognition Lab at Stanford University as a CSLI intern, working with Judy Fan and Robert Hawkins.
+While at Vassar, I was advised by {{% staticref "https://www.vassar.edu/faculty/livingst/" "newtab" %}}Ken Livingston{{% /staticref %}} and 
+{{% staticref "https://www.vassar.edu/faculty/jdeleeuw/" "newtab" %}}Josh de Leeuw{{% /staticref %}}.
+I also spent a summer at the Computation and Cognition Lab at Stanford University as a CSLI intern, working with <a href="https://cogtoolslab.github.io/" target="_blank">Judy Fan</a> and <a href="https://rxdhawkins.com/" target="_blank">Robert Hawkins</a>.

@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   description = """
   I'm currently interestered in how people learn visual concepts and how these concepts might support behavior such as sketching.  
   I use a combination of behavioral experiments and computational modeling techniques to try and answer these questions.
+  My primary advisor is Tim Rogers.
   """
 
 [[experience]]
@@ -38,14 +39,12 @@ date_format = "Jan 2006"
   date_start = "2015-08-01"
   date_end = "2019-05-27"
   description = """
-  I was introduced to Cognitive Science at Vassar through Ken Livingston's freshman writing seminar - "The Science and Fiction of Mind". I wrote an undergraduate thesis titled "**Visual Cognition and Graphical Production: Exploring
-Semantic Part Structure in Communicative Sketches**".  
+  I was introduced to Cognitive Science at Vassar through Ken Livingston's freshman writing seminar - _The Science and Fiction of Mind_.  
+  The title of my undergraduate thesis was "**Visual Cognition and Graphical Production: Exploring Semantic Part Structure in Communicative Sketches**".  
   I also picked up a second major in Japanese, and spent the summer of 2016 studying at Ochanomizu University in Tokyo.  
-  Josh de Leeuw introduced me to computational modeling in cognitive science, and I enjoyed it so much that I minored in Mathematics.  
+  Josh de Leeuw introduced me to computational modeling in cognitive science, and I enjoyed it so much that I decided to minor in Mathematics.   
 
-  I enjoyed a brief stint as a CSLI intern at the Computation and Cognition Lab at Stanford University during the summer of 2018 working with Judy Fan and Robert Hawkins.  
-
-  I was also involved with Vassar Debate and was a member of the Vassar Men's Rugby Team during my undergrad years.
+  I was also involved with Vassar Debate and was a member of the Vassar Men's Rugby Team during my undergraduate years.
   """
 
 [[experience]]
