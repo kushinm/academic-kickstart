@@ -32,6 +32,6 @@
 #    weight = 70
 
 [[main]]
-  name = "Pictures"  # A link title for your page.
-  url = "pictures/"  # The URL of your page.
+  name = "Personal"  # A link title for your page.
+  url = "personal/"  # The URL of your page.
   weight = 90  # The position of your page in the menu.
