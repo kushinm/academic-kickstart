@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BA in Cognitive Science and Japanese
+  - course: BA, Cognitive Science and Japanese
     institution: Vassar College
     year: 2019
 
