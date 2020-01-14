@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+For a full list of publications, refer to CV
+
 <!---{{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}--->
