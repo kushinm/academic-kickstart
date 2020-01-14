@@ -17,7 +17,7 @@ comments: false  # Show comments?
 I'm not much of a photographer, but here are some pictures that I really like-
 
 
-{{< figure library="true" src="kehoe.jpg" title="Sunset over Kehoe Beach, Point Reyes, 2019" lightbox="true" >}}
+{{< figure library="true" src="kehoe.jpg" title="Sunset over Kehoe Beach, Point Reyes, 2020" lightbox="true" >}}
 
 {{< figure library="true" src="rainbow_nf.jpg" title="Rainbow over Niagara Falls, 2019" lightbox="true" >}}
 
