@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_end = "2019-05-27"
   description = """
   I was introduced to Cognitive Science at Vassar through Ken Livingston's freshman writing seminar - _The Science and Fiction of Mind_.  
-  The title of my undergraduate thesis was "**Visual Cognition and Graphical Production: Exploring Semantic Part Structure in Communicative Sketches**".  
+  The title of my undergraduate thesis was **Visual Cognition and Graphical Production: Exploring Semantic Part Structure in Communicative Sketches**.  
   I also picked up a second major in Japanese, and spent the summer of 2016 studying at Ochanomizu University in Tokyo.  
   Josh de Leeuw introduced me to computational modeling in cognitive science, and I enjoyed it so much that I decided to minor in Mathematics.   
 
