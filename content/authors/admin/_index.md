@@ -21,9 +21,10 @@ organizations:
 bio: Cognitive scientist trying to understand how people learn visual concepts.
 
 interests:
-- Graphical communication
+- Visual communication
+- Perception
 - Neural network models of cognition
-- Probabilistic modeling
+
 
 education:
   courses:
@@ -64,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a first year Psychology PhD student at the University of Wisconsin-Madison.
+I'm a third year Psychology PhD student at the University of Wisconsin-Madison.
 My primary interest is in the nature of visual concepts. How are they learned? Why are they useful? Can machines be taught these concepts? I study drawings as a means to answer these questions.
 
 
