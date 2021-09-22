@@ -67,7 +67,7 @@ user_groups:
 
 I'm a third year Psychology PhD student at the University of Wisconsin-Madison.
 My primary interest is in the nature of visual concepts. How are they learned? Why are they useful? Can machines be taught these concepts? I study drawings as a means to answer these questions.
-
+See my CV on the left for a list of my publications and talks!
 
 I'm affiliated with the {{% staticref "http://concepts.psych.wisc.edu/" "newtab" %}}Knowledge and Concepts Lab{{% /staticref %}}, 
 {{% staticref "https://schlosslab.discovery.wisc.edu/" "newtab" %}}Schloss Visual Reasoning Lab{{% /staticref %}}, 
